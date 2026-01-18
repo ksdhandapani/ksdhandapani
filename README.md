@@ -1,2 +1,2 @@
-- 👋 Hi, I'm Dhandapani Sudhakar, a Software Engineer with over 6 years of expertise in developing Java-based enterprise applications.
-- 👀 I'm interested in learning new things and a cloud enthusiast.
+- 👋 Hi, I'm Dhandapani Sudhakar, a Software Engineer with over 7 years of expertise in developing Java-based enterprise applications.
+- 👀 I'm interested in learning new things and am a cloud enthusiast.
